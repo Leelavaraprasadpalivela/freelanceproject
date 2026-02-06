@@ -218,7 +218,7 @@ header {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/ac.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('ac.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -481,4 +481,5 @@ footer {
     width: 100%;
     text-align: center;
   }
+
 }
