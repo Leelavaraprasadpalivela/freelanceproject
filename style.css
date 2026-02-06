@@ -218,7 +218,7 @@ header {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('ac.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://proappliancefix.com/wp-content/uploads/2024/03/logo_professional_appliance_repair.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -483,3 +483,4 @@ footer {
   }
 
 }
+
